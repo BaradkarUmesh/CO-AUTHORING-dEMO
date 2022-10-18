@@ -96,6 +96,6 @@ Screen1 As screen:
     TextInput4 As text:
         Default: ="Text input"
         X: =40
-        Y: =354
+        Y: =374
         ZIndex: =5
 
