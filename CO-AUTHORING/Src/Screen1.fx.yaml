@@ -89,7 +89,7 @@ Screen1 As screen:
 
     TextInput3 As text:
         Default: ="Text input"
-        X: =812
+        X: =865
         Y: =296
         ZIndex: =4
 
