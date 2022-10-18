@@ -1,23 +1,9 @@
 {
   "ComponentIndexes": {},
   "ControlUniqueGuids": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Gallery1": 7,
-    "galleryTemplate1": 8,
-    "Image1": 9,
-    "NextArrow1": 12,
-    "Screen1": 3,
-    "Screen2": 6,
-    "Separator1": 13,
-    "Subtitle1": 11,
-    "TextInput1": 4,
-    "TextInput2": 5,
-    "Title1": 10
-  },
+  "ControlUniqueIds": {},
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "10/18/2022 12:52:17",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": false,
@@ -25,47 +11,13 @@
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "CustomGallerySample": 0
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "gallery": 0,
-    "icon": 3,
-    "image": 1,
-    "label": 2,
-    "rectangle": 4,
-    "text": 5
-  },
-  "PublishOrderIndices": {
-    "App": 0,
-    "Gallery1": 0,
-    "galleryTemplate1": 0,
-    "Image1": 0,
-    "NextArrow1": 0,
-    "Screen1": 2,
-    "Screen2": 5,
-    "Separator1": 0,
-    "Subtitle1": 0,
-    "TextInput1": 3,
-    "TextInput2": 4,
-    "Title1": 0
-  },
-  "ResourcesJsonIndices": {
-    "Image-SampleImage": 0
-  },
+  "OrderXMLTemplate": {},
+  "PublishOrderIndices": {},
+  "ResourcesJsonIndices": {},
   "RuleScreenIdWithoutScreen": {},
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.0378656,
-    "ControlCount": {
-      "screen": 2,
-      "text": 2
-    },
-    "DeserializationLoadTime": 0.0722842,
-    "ErrorCount": 0
-  },
-  "WasLocalDatabaseReferencesEmpty": true
+  "TemplateVersions": {}
 }
