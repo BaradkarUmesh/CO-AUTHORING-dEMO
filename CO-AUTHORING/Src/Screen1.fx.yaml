@@ -81,3 +81,15 @@ Screen1 As screen:
             Y: =Parent.TemplateHeight - 1
             ZIndex: =5
 
+    Label1 As label:
+        Text: ="Text"
+        X: =77
+        Y: =256
+        ZIndex: =3
+
+    TextInput3 As text:
+        Default: ="Text input"
+        X: =812
+        Y: =296
+        ZIndex: =4
+
