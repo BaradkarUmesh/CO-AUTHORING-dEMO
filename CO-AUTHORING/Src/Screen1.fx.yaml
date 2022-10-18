@@ -1,4 +1,5 @@
 Screen1 As screen:
+    OnVisible: =Set(varusers,User())
 
     TextInput1 As text:
         Default: ="Text input"
