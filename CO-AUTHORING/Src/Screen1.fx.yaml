@@ -13,3 +13,15 @@ Screen1 As screen:
         Y: =452
         ZIndex: =2
 
+    Label1 As label:
+        Text: ="Text"
+        X: =77
+        Y: =256
+        ZIndex: =3
+
+    TextInput3 As text:
+        Default: ="Text input"
+        X: =812
+        Y: =296
+        ZIndex: =4
+
