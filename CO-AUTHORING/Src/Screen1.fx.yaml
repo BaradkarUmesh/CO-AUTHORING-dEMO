@@ -94,8 +94,8 @@ Screen1 As screen:
         ZIndex: =4
 
     TextInput4 As text:
-        Default: ="Text input"
-        X: =40
-        Y: =374
+        Default: ="From Umesh Account"
+        X: =284
+        Y: =276
         ZIndex: =5
 
